@@ -10,11 +10,13 @@
     <tr>
         <td align="center">
             <img width="375" src="examples/001-cover.png"><br>
-            <img src="examples/001-QR.png">    
+            <img src="examples/001-QR.png">
+            <p>开发者：刘新金</p>
         </td>
         <td align="center">
             <img width="375" src="examples/002-cover.png"><br>
             <img src="examples/002-QR.png">    
+            <p>开发者：李静</p>
         </td>
     </tr>
     <tr>
@@ -35,6 +37,25 @@
         <td align="center">
             <img width="375" src="examples/006-cover.png"><br>
             <img src="examples/006-QR.png">
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img width="375" src="examples/007-cover.png"><br>
+            <img src="examples/007-QR.png">
+            <p>开发者：李春来、杨昌辉</p>
+        </td>
+        <td align="center">
+            <img width="375" src="examples/008-cover.png"><br>
+            <img src="examples/008-QR.png">
+            <p>开发者：单开元</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img width="375" src="examples/009-cover.png"><br>
+            <img src="examples/009-QR.png">
+            <p>开发者：刘文磊</p>
         </td>
     </tr>
 </table>
