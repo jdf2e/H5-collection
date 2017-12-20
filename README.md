@@ -63,4 +63,11 @@
             <p>开发者：拉勾</p>
         </td>
     </tr>
+    <tr>
+        <td align="center">
+            <img width="375" src="examples/011-cover.png"><br>
+            <img src="examples/011-QR.png">
+            <p>开发者：抖音</p>
+        </td>
+    </tr>
 </table>
